@@ -18,7 +18,6 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 
-```markdown
 # Advanced File System — Visitor Pattern
 
 A production-grade Java 17 Maven implementation of an in-memory hierarchical file system using the **Visitor behavioral pattern**. This project demonstrates double dispatch, strict tree integrity rules, and extensible, decoupled operations over a composite tree structure (`FileNode` and `DirectoryNode`).
