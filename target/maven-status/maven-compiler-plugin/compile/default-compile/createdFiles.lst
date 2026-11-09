@@ -1,0 +1,8 @@
+com\filesystem\DirectoryNode.class
+com\filesystem\SearchVisitor.class
+com\filesystem\TotalSizeVisitor.class
+com\filesystem\FileSystemVisitor.class
+com\filesystem\StatisticsVisitor.class
+com\filesystem\FileSystemElement.class
+com\filesystem\FileNode.class
+com\filesystem\Main.class
