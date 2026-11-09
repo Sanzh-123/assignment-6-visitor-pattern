@@ -88,6 +88,6 @@ public class DirectoryNode implements FileSystemElement {
 
     @Override
     public void accept(FileSystemVisitor visitor) {
-        visitor.visit(this); // Double dispatch step 1
+        visitor.visit(this); // Double dispatch
     }
 }
