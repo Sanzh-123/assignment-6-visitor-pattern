@@ -67,7 +67,7 @@ mvn clean test
 Runs the deterministic executable main program to trace all three visitor operations:
 
 ```bash
-mvn clean compile exec:java -Dexec.mainClass="com.filesystem.Main"
+mvn clean compile exec:java
 
 ```
 
